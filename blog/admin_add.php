@@ -149,11 +149,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <button type="submit" class="btn btn-primary">Spremi post</button>
 </form>
 
-        
-        <!-- Ažurirani gumb za slanje obrasca -->
-        <button type="submit" class="btn btn-primary">Spremi post</button>
-    </form>
-</div>
+
+
 
 <script>
     tinymce.init({

@@ -78,7 +78,7 @@ $postData = [
     } else {
         $message = 'Došlo je do greške pri ažuriranju posta.';
     }
-}
+
 
 ?>
 
