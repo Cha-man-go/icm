@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } else {
         $message = 'Došlo je do greške pri ažuriranju posta.';
     }
-}
+
 ?>
 
 
