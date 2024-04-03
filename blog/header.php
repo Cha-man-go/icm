@@ -1,0 +1,268 @@
+<!DOCTYPE html><!--  Last Published: Thu Mar 28 2024 11:23:23 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="66054ffe7722f3570e828b9d" data-wf-site="65fea4e1c1b9da3a2b37cd0c" lang="it">
+<head>
+  <meta charset="utf-8">
+  <title>Zaglavlje</title>
+  <meta content="Krunica na implantatu | Implant centre Martinko" name="description">
+  <meta content="Zaglavlje" property="og:title">
+  <meta content="Krunica na implantatu | Implant centre Martinko" property="og:description">
+  <meta content="Zaglavlje" property="twitter:title">
+  <meta content="Krunica na implantatu | Implant centre Martinko" property="twitter:description">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="../css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="../css/components.css" rel="stylesheet" type="text/css">
+  <link href="../css/icmartinko.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","Barlow:300,regular,500,600,700,800","Barlow Condensed:300,regular,500,600,700,800,900","Barlow Semi Condensed:300,regular,500,600,700,800,900"]  }});</script>
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon">
+  <link href="../images/webclip.jpg" rel="apple-touch-icon">
+</head>
+<body class="body">
+  <section class="navigacija-vrh">
+    <div data-animation="over-right" class="navigacija w-nav" data-easing2="ease-in-out" fs-scrolldisable-element="smart-nav" data-easing="ease-in-out" data-collapse="all" data-w-id="9ee8290c-78b3-d24a-39f2-3a6460ade410" role="banner" data-no-scroll="1" data-duration="400" data-doc-height="1">
+      <div class="navigacija-vrh-desktop">
+        <div class="navigacija-vrh-grid">
+          <div id="w-node-_743959e0-01ee-7b78-1082-526347c1872e-60ade410" class="navigacija-vrh-klinike">
+            <a id="w-node-_5477801f-e1b7-83f8-bf55-e966cb453f4f-60ade410" href="../chi-siamo/implant-centre-martinko-milano.html" class="zaglavlje-link lijevo w-inline-block">
+              <div class="email-grid">
+                <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--iconoir" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24">
+                    <g fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path d="M20 10c0 4.418-8 12-8 12s-8-7.582-8-12a8 8 0 1 1 16 0Z"></path>
+                      <path fill="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12 11a1 1 0 1 0 0-2a1 1 0 0 0 0 2Z"></path>
+                    </g>
+                  </svg></div>
+                <div id="w-node-e8a27e84-32d4-ab8b-a08c-a2b0be8b0672-60ade410" class="tekst-kontakti">Milano</div>
+              </div>
+            </a>
+            <a id="w-node-f447a381-0771-dcc6-d2d6-8f58b7c4ca7a-60ade410" href="../chi-siamo/implant-centre-martinko-trieste.html" class="zaglavlje-link w-inline-block">
+              <div class="email-grid">
+                <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--iconoir" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24">
+                    <g fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path d="M20 10c0 4.418-8 12-8 12s-8-7.582-8-12a8 8 0 1 1 16 0Z"></path>
+                      <path fill="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12 11a1 1 0 1 0 0-2a1 1 0 0 0 0 2Z"></path>
+                    </g>
+                  </svg></div>
+                <div id="w-node-f447a381-0771-dcc6-d2d6-8f58b7c4ca7d-60ade410" class="tekst-kontakti">Trieste</div>
+              </div>
+            </a>
+            <a id="w-node-_2facc425-62ff-60bf-0bcc-5506ae949f74-60ade410" href="../chi-siamo/implant-centre-martinko-zagreb.html" class="zaglavlje-link w-inline-block">
+              <div class="email-grid">
+                <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--iconoir" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24">
+                    <g fill="none" stroke="currentColor" stroke-width="1.5">
+                      <path d="M20 10c0 4.418-8 12-8 12s-8-7.582-8-12a8 8 0 1 1 16 0Z"></path>
+                      <path fill="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12 11a1 1 0 1 0 0-2a1 1 0 0 0 0 2Z"></path>
+                    </g>
+                  </svg></div>
+                <div id="w-node-_2facc425-62ff-60bf-0bcc-5506ae949f77-60ade410" class="tekst-kontakti">Zagabria</div>
+              </div>
+            </a>
+          </div>
+          <div id="w-node-_5c83b422-5c53-3fb8-7edb-4fea559c2a4b-60ade410" class="navigacija-vrh-kontakti">
+            <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037cd-60ade410" class="nazovite">
+              <a aria-label="Rezervirajte" href="#" class="zaglavlje-link lijevo w-inline-block">
+                <div class="email-grid">
+                  <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ph" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 256 256">
+                      <path fill="currentColor" d="M152.27 37.93a8 8 0 0 1 9.8-5.66a86.22 86.22 0 0 1 61.66 61.66a8 8 0 0 1-5.66 9.8a8.23 8.23 0 0 1-2.07.27a8 8 0 0 1-7.73-5.94a70.35 70.35 0 0 0-50.33-50.33a8 8 0 0 1-5.67-9.8m-2.33 41.8c13.79 3.68 22.65 12.54 26.33 26.33A8 8 0 0 0 184 112a8.23 8.23 0 0 0 2.07-.27a8 8 0 0 0 5.66-9.8c-5.12-19.16-18.5-32.54-37.66-37.66a8 8 0 1 0-4.13 15.46m81.94 95.35A56.26 56.26 0 0 1 176 224C96.6 224 32 159.4 32 80a56.26 56.26 0 0 1 48.92-55.88a16 16 0 0 1 16.62 9.52l21.12 47.15v.12A16 16 0 0 1 117.39 96c-.18.27-.37.52-.57.77L96 121.45c7.49 15.22 23.41 31 38.83 38.51l24.34-20.71a8.12 8.12 0 0 1 .75-.56a16 16 0 0 1 15.17-1.4l.13.06l47.11 21.11a16 16 0 0 1 9.55 16.62m-15.88-2h-.11l-47-21.05l-24.35 20.71a8.44 8.44 0 0 1-.74.56a16 16 0 0 1-15.75 1.14c-18.73-9.05-37.4-27.58-46.46-46.11a16 16 0 0 1 1-15.7a6.13 6.13 0 0 1 .57-.77L104 87.15l-21-47a.61.61 0 0 1 0-.12A40.2 40.2 0 0 0 48 80a128.14 128.14 0 0 0 128 128a40.21 40.21 0 0 0 40-34.93Z"></path>
+                    </svg></div>
+                  <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037d1-60ade410" class="tekst-kontakti">Nazovite</div>
+                </div>
+              </a>
+            </div>
+            <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037d3-60ade410" class="rezervirajte">
+              <a aria-label="Rezervirajte" href="#" class="zaglavlje-link w-inline-block">
+                <div class="email-grid">
+                  <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--iconoir" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24">
+                      <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 4V2m0 2v2m0-2h-4.5M3 10v9a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-9H3Zm0 0V6a2 2 0 0 1 2-2h2m0-2v4m14 4V6a2 2 0 0 0-2-2h-.5"></path>
+                    </svg></div>
+                  <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037d7-60ade410" class="tekst-kontakti">Rezervirajte </div>
+                </div>
+              </a>
+            </div>
+            <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037c7-60ade410" class="chat">
+              <a aria-label="Rezervirajte" href="#" class="zaglavlje-link w-inline-block">
+                <div class="email-grid"><img src="../images/WhatsApp.svg" loading="lazy" id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037ca-60ade410" alt="" class="image-10">
+                  <div id="w-node-_4f17c9e9-bceb-01e8-ef5b-ed95c3d037cb-60ade410" class="tekst-kontakti">Chat</div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="navigacija-bijela">
+        <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade412-60ade410" class="navigacija-lijevo">
+          <a href="../index.html" aria-label="Logo Implant centre Martinko" id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade413-60ade410" class="navigacija-logo-link w-nav-brand">
+            <div class="logo-grid"><img src="../images/CM.svg" loading="lazy" id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade415-60ade410" alt="" class="navigacija-logo-zeleni">
+              <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade416-60ade410" class="logo-tekst">Implant<br>Centre<br>Martinko</div>
+            </div>
+          </a>
+          <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade41c-60ade410" class="navigacija-sredina">
+            <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade436-60ade410" class="navigacija-meni-sredina-dolje">
+              <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade437-60ade410" class="meni-desni">
+                <a id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade438-60ade410" href="../index.html" class="link-meni w-inline-block">
+                  <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade439-60ade410" class="meni prvi">Home</div>
+                </a>
+                <div data-hover="true" data-delay="200" data-w-id="9ee8290c-78b3-d24a-39f2-3a6460ade43b" class="link-meni-dropdown w-dropdown">
+                  <div class="meni w-dropdown-toggle">
+                    <div class="text-block">O nama</div>
+                    <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                      </svg></div>
+                  </div>
+                  <nav class="dropdown-list-2 w-dropdown-list">
+                    <a href="../chi-siamo/chi-siamo.html" class="navbar2_dropdown-link-2 w-dropdown-link">Clinica dentistica Implant Centre Martinko</a>
+                    <a href="../chi-siamo/il-nostro-tim.html" class="navbar2_dropdown-link-2 w-dropdown-link">Il nostro tim</a>
+                    <a href="../chi-siamo/zasto-odabrati-implant-centar-martinko.html" class="navbar2_dropdown-link-2 w-dropdown-link">Zašto odabrati Implant centar Martinko</a>
+                    <a href="../chi-siamo/implant-centre-martinko-milano.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Milano</a>
+                    <a href="../chi-siamo/implant-centre-martinko-trieste.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Trieste</a>
+                    <a href="../chi-siamo/implant-centre-martinko-zagreb.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Zagabria</a>
+                    <a href="../chi-siamo/collaboratori.html" class="navbar2_dropdown-link-2 w-dropdown-link">Collaboratori</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Dijagnostika</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Laboratorij</a>
+                  </nav>
+                </div>
+                <div data-hover="true" data-delay="200" data-w-id="9ee8290c-78b3-d24a-39f2-3a6460ade44f" class="link-meni-dropdown w-dropdown">
+                  <div class="meni w-dropdown-toggle">
+                    <div class="text-block">Usluge</div>
+                    <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                      </svg></div>
+                  </div>
+                  <nav class="dropdown-list w-dropdown-list">
+                    <a href="../soluzioni/protesi-su-impianti.html" class="navbar2_dropdown-link-2 w-dropdown-link">Protesi su impianti</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Protetika na prirodnim zubima</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Estetika i konzervativna stomatologija</a>
+                  </nav>
+                </div>
+                <div data-hover="true" data-delay="200" data-w-id="9ee8290c-78b3-d24a-39f2-3a6460ade45b" class="link-meni-dropdown w-dropdown">
+                  <div class="meni w-dropdown-toggle">
+                    <div class="text-block">Pacijenti</div>
+                    <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                      </svg></div>
+                  </div>
+                  <nav class="dropdown-list w-dropdown-list">
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Dojmovi</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Prije / Poslije</a>
+                    <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Prijevoz i smještaj</a>
+                  </nav>
+                </div>
+                <a id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade467-60ade410" href="https://www.chamango.com/icm/blog/" class="link-meni w-inline-block">
+                  <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade468-60ade410" class="meni">Blog</div>
+                </a>
+                <a id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade46a-60ade410" href="#" class="link-meni w-inline-block">
+                  <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade46b-60ade410" class="meni">Kontakti</div>
+                </a>
+              </div>
+            </div>
+            <div class="navigacija-sredina-gore">
+              <div id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735d3-60ade410" class="chat">
+                <a aria-label="Rezervirajte" href="#" class="link-block w-inline-block">
+                  <div class="chat-grid"><img src="../images/WhatsApp.svg" loading="lazy" id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735d6-60ade410" alt="" class="image-10"></div>
+                </a>
+              </div>
+              <div id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735d9-60ade410" class="nazovite">
+                <a aria-label="Rezervirajte" href="#" class="link-block w-inline-block">
+                  <div class="email-grid">
+                    <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--ph" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 256 256">
+                        <path fill="currentColor" d="M152.27 37.93a8 8 0 0 1 9.8-5.66a86.22 86.22 0 0 1 61.66 61.66a8 8 0 0 1-5.66 9.8a8.23 8.23 0 0 1-2.07.27a8 8 0 0 1-7.73-5.94a70.35 70.35 0 0 0-50.33-50.33a8 8 0 0 1-5.67-9.8m-2.33 41.8c13.79 3.68 22.65 12.54 26.33 26.33A8 8 0 0 0 184 112a8.23 8.23 0 0 0 2.07-.27a8 8 0 0 0 5.66-9.8c-5.12-19.16-18.5-32.54-37.66-37.66a8 8 0 1 0-4.13 15.46m81.94 95.35A56.26 56.26 0 0 1 176 224C96.6 224 32 159.4 32 80a56.26 56.26 0 0 1 48.92-55.88a16 16 0 0 1 16.62 9.52l21.12 47.15v.12A16 16 0 0 1 117.39 96c-.18.27-.37.52-.57.77L96 121.45c7.49 15.22 23.41 31 38.83 38.51l24.34-20.71a8.12 8.12 0 0 1 .75-.56a16 16 0 0 1 15.17-1.4l.13.06l47.11 21.11a16 16 0 0 1 9.55 16.62m-15.88-2h-.11l-47-21.05l-24.35 20.71a8.44 8.44 0 0 1-.74.56a16 16 0 0 1-15.75 1.14c-18.73-9.05-37.4-27.58-46.46-46.11a16 16 0 0 1 1-15.7a6.13 6.13 0 0 1 .57-.77L104 87.15l-21-47a.61.61 0 0 1 0-.12A40.2 40.2 0 0 0 48 80a128.14 128.14 0 0 0 128 128a40.21 40.21 0 0 0 40-34.93Z"></path>
+                      </svg></div>
+                    <div id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735dd-60ade410" class="tekst-kontakti">Nazovite</div>
+                  </div>
+                </a>
+              </div>
+              <div id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735df-60ade410" class="rezervirajte">
+                <a aria-label="Rezervirajte" href="#" class="link-block w-inline-block">
+                  <div class="email-grid">
+                    <div class="ikonica w-embed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--iconoir" width="100%" height="100%" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24">
+                        <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 4V2m0 2v2m0-2h-4.5M3 10v9a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-9H3Zm0 0V6a2 2 0 0 1 2-2h2m0-2v4m14 4V6a2 2 0 0 0-2-2h-.5"></path>
+                      </svg></div>
+                    <div id="w-node-_77706a34-1f69-5e28-b1bd-90efa84735e3-60ade410" class="tekst-kontakti">Rezervirajte </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="w-node-_9ee8290c-78b3-d24a-39f2-3a6460ade46d-60ade410" class="navbar-gumb">
+          <article role="navigation" class="navbar2_menu-2 w-nav-menu">
+            <div class="meni-desni">
+              <a id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b53-60ade410" href="../index.html" class="link-meni w-inline-block">
+                <div id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b54-60ade410" class="meni prvi">Home</div>
+              </a>
+              <div data-hover="true" data-delay="200" data-w-id="d309c2cf-b7f5-147a-d4bc-128d32de0b56" class="link-meni-dropdown w-dropdown">
+                <div class="meni w-dropdown-toggle">
+                  <div class="text-block">O nama</div>
+                  <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                    </svg></div>
+                </div>
+                <nav class="dropdown-list-2 w-dropdown-list">
+                  <a href="../chi-siamo/chi-siamo.html" class="navbar2_dropdown-link-2 w-dropdown-link">Clinica dentistica Implant Centre Martinko</a>
+                  <a href="../chi-siamo/il-nostro-tim.html" class="navbar2_dropdown-link-2 w-dropdown-link">Il nostro tim</a>
+                  <a href="../chi-siamo/zasto-odabrati-implant-centar-martinko.html" class="navbar2_dropdown-link-2 w-dropdown-link">Zašto odabrati Implant centar Martinko</a>
+                  <a href="../chi-siamo/implant-centre-martinko-milano.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Milano</a>
+                  <a href="../chi-siamo/implant-centre-martinko-trieste.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Trieste</a>
+                  <a href="../chi-siamo/implant-centre-martinko-zagreb.html" class="navbar2_dropdown-link-2 w-dropdown-link">Implant Centre Martinko Zagabria</a>
+                  <a href="../chi-siamo/collaboratori.html" class="navbar2_dropdown-link-2 w-dropdown-link">Collaboratori</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Dijagnostika</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Laboratorij</a>
+                </nav>
+              </div>
+              <div data-hover="true" data-delay="200" data-w-id="d309c2cf-b7f5-147a-d4bc-128d32de0b6e" class="link-meni-dropdown w-dropdown">
+                <div class="meni w-dropdown-toggle">
+                  <div class="text-block">Usluge</div>
+                  <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                    </svg></div>
+                </div>
+                <nav class="dropdown-list-2 w-dropdown-list">
+                  <a href="../soluzioni/protesi-su-impianti.html" class="navbar2_dropdown-link-2 w-dropdown-link">Protesi su impianti</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Protetika na prirodnim zubima</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Estetika i konzervativna stomatologija</a>
+                </nav>
+              </div>
+              <div data-hover="true" data-delay="200" data-w-id="d309c2cf-b7f5-147a-d4bc-128d32de0b7a" class="link-meni-dropdown w-dropdown">
+                <div class="meni w-dropdown-toggle">
+                  <div class="text-block">Pacijenti</div>
+                  <div class="dropdown-chevron w-embed"><svg width=" 100%" height=" 100%" viewbox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z" fill="currentColor"></path>
+                    </svg></div>
+                </div>
+                <nav class="dropdown-list-2 w-dropdown-list">
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Dojmovi</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Prije / Poslije</a>
+                  <a href="#" class="navbar2_dropdown-link-2 w-dropdown-link">Prijevoz i smještaj</a>
+                </nav>
+              </div>
+              <a id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b86-60ade410" href="../blog/blog.html" class="link-meni w-inline-block">
+                <div id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b87-60ade410" class="meni">Blog</div>
+              </a>
+              <a id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b89-60ade410" href="#" class="link-meni w-inline-block">
+                <div id="w-node-d309c2cf-b7f5-147a-d4bc-128d32de0b8a-60ade410" class="meni">Kontakti</div>
+              </a>
+            </div>
+          </article>
+          <div class="navbar-gumb-pozadina">
+            <div class="navbar-meni-gumb w-nav-button">
+              <div class="meni-ikona">
+                <div class="meni-ikona-linija-vrh"></div>
+                <div class="meni-ikona-linija-sredina">
+                  <div class="menu-icon_line-middle-inner"></div>
+                </div>
+                <div class="meni-ikona-linija-dno"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65fea4e1c1b9da3a2b37cd0c" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="../js/icmartinko.js" type="text/javascript"></script>
+</body>
+</html>

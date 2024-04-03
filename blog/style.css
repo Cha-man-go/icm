@@ -1,0 +1,8 @@
+/* style.css */
+/* Custom styles */
+body {
+    padding-top: 60px; /* Mjesto za navbar */
+}
+.card {
+    margin-bottom: 20px;
+}
