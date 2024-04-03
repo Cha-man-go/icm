@@ -56,17 +56,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 
-    $postData = [
-        'id' => $post_id, // Zadržite originalni ID
-        'title' => $title,
-        'subtitle' => $subtitle,
-        'content' => $content,
-        'date' => $date,
-        "timestamp" => $timestamp, // Dodajemo točno vrijeme objave
-        'seo_title' => htmlspecialchars($_POST['seo_title'] ?? ''),
-        'seo_description' => htmlspecialchars($_POST['seo_description'] ?? ''),
-        'open_graph_title' => htmlspecialchars($_POST['open_graph_title'] ?? ''),
-        'open_graph_description' => htmlspecialchars($_POST['open_graph_description'] ?? ''),
+$postData = [
+    'id' => $post_id, // Zadržite originalni ID
+    'title' => $title,
+    'subtitle' => $subtitle,
+    'content' => $content,
+    'date' => $date,
+    'image' => $imageName, // Ažurirajte ime slike nakon obrade slike
+    'seo_title' => $seoTitle,
+    'seo_description' => $seoDescription,
+     'open_graph_title' => $openGraphTitle,
+     'open_graph_description' => $openGraphDescription,
         'open_graph_image' => htmlspecialchars($_POST['open_graph_image'] ?? ''),
         'image' => $imageName
     ];
@@ -78,6 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } else {
         $message = 'Došlo je do greške pri ažuriranju posta.';
     }
+}
 
 ?>
 
