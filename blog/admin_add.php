@@ -23,11 +23,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $content = htmlspecialchars($_POST['content'] ?? '');
     $date = htmlspecialchars($_POST['date'] ?? date('Y-m-d'));
     $timestamp = htmlspecialchars($_POST['timestamp'] ?? date('Y-m-d H:i:s'));
-    $imageAlt = htmlspecialchars($_POST['image_alt'] ?? $title); // Ako nije unesen alt tekst, koristi naslov
-    $seoTitle = htmlspecialchars($_POST['seo_title'] ?? $title); // Ako SEO naslov nije unesen, koristi naslov
-    $seoDescription = htmlspecialchars($_POST['seo_description'] ?? $subtitle); // Ako SEO opis nije unesen, koristi podnaslov
-    $openGraphTitle = htmlspecialchars($_POST['open_graph_title'] ?? $title); // Ako Open Graph naslov nije unesen, koristi naslov
-    $openGraphDescription = htmlspecialchars($_POST['open_graph_description'] ?? $subtitle); // Ako Open Graph opis nije unesen, koristi podnaslov
+    $imageAlt = htmlspecialchars($_POST['image_alt'] ?? $title);
+    $seoTitle = htmlspecialchars($_POST['seo_title'] ?? $title);
+    $seoDescription = htmlspecialchars($_POST['seo_description'] ?? $subtitle);
+    $openGraphTitle = htmlspecialchars($_POST['open_graph_title'] ?? $title);
+    $openGraphDescription = htmlspecialchars($_POST['open_graph_description'] ?? $subtitle);
     $openGraphImage = htmlspecialchars($_POST['open_graph_image'] ?? ''); // Možete dodati logiku za zadavanje defaultne slike
 
 

@@ -31,6 +31,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $content = htmlspecialchars($_POST['content'] ?? '');
     $date = htmlspecialchars($_POST['date'] ?? date('Y-m-d'));
 
+    $imageAlt = htmlspecialchars($_POST['image_alt'] ?? $title); // Ako nije unesen alt tekst, koristi naslov
+    $seoTitle = htmlspecialchars($_POST['seo_title'] ?? $title); // Ako SEO naslov nije unesen, koristi naslov
+    $seoDescription = htmlspecialchars($_POST['seo_description'] ?? $subtitle); // Ako SEO opis nije unesen, koristi podnaslov
+    $openGraphTitle = htmlspecialchars($_POST['open_graph_title'] ?? $title); // Ako Open Graph naslov nije unesen, koristi naslov
+    $openGraphDescription = htmlspecialchars($_POST['open_graph_description'] ?? $subtitle); // Ako Open Graph opis nije unesen, koristi podnaslov
+
     $imageName = $postData['image'] ?? '';
     if (isset($_FILES['image']['error']) && $_FILES['image']['error'] == 0) {
         $imageType = mime_content_type($_FILES['image']['tmp_name']);
@@ -46,6 +52,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $message = 'Nepodržani format slike.';
         }
     }
+    
+}
+
 
     $postData = [
         'id' => $post_id, // Zadržite originalni ID
